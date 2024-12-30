@@ -1,0 +1,402 @@
+[
+  {
+    "nombre": "Lote mujer My Soul Soirée",
+    "precio": "1,35 €"
+  },
+  {
+    "nombre": "Lote infantil Marvel Spiderman",
+    "precio": "12,00 €"
+  },
+  {
+    "nombre": "Eau de parfum mujer Como tú Cerise",
+    "precio": "11,50 €"
+  },
+  {
+    "nombre": "Eau de parfum mujer My Soul Rouge",
+    "precio": "12,00 €"
+  },
+  {
+    "nombre": "Extrait de parfum Oud",
+    "precio": "14,00 €"
+  },
+  {
+    "nombre": "Eau de parfum hombre Como tú Eternal",
+    "precio": "12,00 €"
+  },
+  {
+    "nombre": "Eau de parfum hombre My Soul Vert",
+    "precio": "8,00 €"
+  },
+  {
+    "nombre": "Extrait de parfum Tabac",
+    "precio": "14,00 €"
+  },
+  {
+    "nombre": "Lote mujer Como Tú Gold",
+    "precio": "12,00 €"
+  },
+  {
+    "nombre": "Lote mujer Como Tú Amor",
+    "precio": "10,50 €"
+  },
+  {
+    "nombre": "Paté de cerdo ibérico con trufa negra Hacendado",
+    "precio": "10,50 €"
+  },
+  {
+    "nombre": "Surtido de ibéricos La Hacienda del ibérico",
+    "precio": "2,10 €"
+  },
+  {
+    "nombre": "Jamón cebo ibérico cortado a cuchillo",
+    "precio": "6,50 €"
+  },
+  {
+    "nombre": "Crema de queso viejo tostado mezcla Hacendado",
+    "precio": "5,85 €"
+  },
+  {
+    "nombre": "Crema de queso camembert Hacendado",
+    "precio": "1,71 €"
+  },
+  {
+    "nombre": "Queso untar de vaca con salmón Hacendado",
+    "precio": "1,70 €"
+  },
+  {
+    "nombre": "Bloc foie gras de pato Hacendado",
+    "precio": "1,85 €"
+  },
+  {
+    "nombre": "Foie gras de pato fresco",
+    "precio": "5,25 €"
+  },
+  {
+    "nombre": "Foie gras entero de pato Hacendado",
+    "precio": "9,45 €"
+  },
+  {
+    "nombre": "Mousse de pato Hacendado",
+    "precio": "8,30 €"
+  },
+  {
+    "nombre": "Queso brie marcillat de vaca Plaisir de Roy",
+    "precio": "1,90 €"
+  },
+  {
+    "nombre": "Frambuesa",
+    "precio": "1,72 €"
+  },
+  {
+    "nombre": "Pistacho tostado Hacendado 0% sal añadida",
+    "precio": "2,26 €"
+  },
+  {
+    "nombre": "Queso roquefort  de oveja Hacendado",
+    "precio": "3,35 €"
+  },
+  {
+    "nombre": "Nuez natural Hacendado pelada",
+    "precio": "1,79 €"
+  },
+  {
+    "nombre": "Peras Conferencia",
+    "precio": "2,20 €"
+  },
+  {
+    "nombre": "Queso emmental de vaca Hacendado",
+    "precio": "3,45 €"
+  },
+  {
+    "nombre": "Mermelada de tomate Hacendado",
+    "precio": "3,09 €"
+  },
+  {
+    "nombre": "Queso rulo de cabra Hacendado",
+    "precio": "1,95 €"
+  },
+  {
+    "nombre": "Miel de flores Hacendado",
+    "precio": "2,30 €"
+  },
+  {
+    "nombre": "Rellenito de vacuno con pasas y piñones",
+    "precio": "2,95 €"
+  },
+  {
+    "nombre": "Bogavante americano crudo",
+    "precio": "12,30 €"
+  },
+  {
+    "nombre": "Pulpo cocido",
+    "precio": "21,00 €"
+  },
+  {
+    "nombre": "Pavita marinada",
+    "precio": "8,92 €"
+  },
+  {
+    "nombre": "Romero",
+    "precio": "23,13 €"
+  },
+  {
+    "nombre": "Steak Tartar de vacuno marinado",
+    "precio": "1,50 €"
+  },
+  {
+    "nombre": "Chalotas",
+    "precio": "4,95 €"
+  },
+  {
+    "nombre": "Paletilla de cordero",
+    "precio": "1,72 €"
+  },
+  {
+    "nombre": "Medio cochinillo congelado",
+    "precio": "25,61 €"
+  },
+  {
+    "nombre": "Chuletas de cordero lechal",
+    "precio": "47,26 €"
+  },
+  {
+    "nombre": "Licor de limoncello Franzini",
+    "precio": "18,82 €"
+  },
+  {
+    "nombre": "Vermouth rojo Maronti reserva",
+    "precio": "6,85 €"
+  },
+  {
+    "nombre": "Vino tinto D.O Ribera del Duero 13 Hectáreas roble",
+    "precio": "2,70 €"
+  },
+  {
+    "nombre": "Vino blanco verdejo D.O Rueda Abadía Mantrús",
+    "precio": "4,85 €"
+  },
+  {
+    "nombre": "Cava brut rosado Cabré & Sabaté",
+    "precio": "2,20 €"
+  },
+  {
+    "nombre": "Ginebra sabor melón Gin Glivery",
+    "precio": "3,25 €"
+  },
+  {
+    "nombre": "Lambrusco dell'Emilia rosado espumoso Piccolo Giovanni",
+    "precio": "6,90 €"
+  },
+  {
+    "nombre": "Sidra asturiana El Mayu",
+    "precio": "1,90 €"
+  },
+  {
+    "nombre": "Vino blanco espumoso verdejo DulZ.Ze frizzante",
+    "precio": "1,60 €"
+  },
+  {
+    "nombre": "Cava brut Cabré & Sabaté",
+    "precio": "2,65 €"
+  },
+  {
+    "nombre": "Surtido bombones Senzza de chocolate con galleta Cacaocream, Roditas y Animadas",
+    "precio": "2,95 €"
+  },
+  {
+    "nombre": "Panettone con pepitas de chocolate Hacendado",
+    "precio": "3,20 €"
+  },
+  {
+    "nombre": "Surtido Berlinas Navidad",
+    "precio": "5,50 €"
+  },
+  {
+    "nombre": "Mantecado casero La Muralla",
+    "precio": "1,90 €"
+  },
+  {
+    "nombre": "Postre dulce de leche Hacendado",
+    "precio": "0,25 €"
+  },
+  {
+    "nombre": "Turrón imperial de cacahuete Hacendado",
+    "precio": "2,85 €"
+  },
+  {
+    "nombre": "Turrón de chocolate negro 72% Hacendado con almendras",
+    "precio": "1,60 €"
+  },
+  {
+    "nombre": "Huesos de santo Hacendado",
+    "precio": "3,20 €"
+  },
+  {
+    "nombre": "Pandoro Balocco",
+    "precio": "2,65 €"
+  },
+  {
+    "nombre": "Mantecado de limón La Muralla",
+    "precio": "5,75 €"
+  },
+  {
+    "nombre": "Servilleta papel decoración Navidad Bosque Verde",
+    "precio": "0,20 €"
+  },
+  {
+    "nombre": "Copas cava de plástico brillo Bosque Verde",
+    "precio": "1,85 €"
+  },
+  {
+    "nombre": "Servilleta papel color Bosque Verde",
+    "precio": "2,90 €"
+  },
+  {
+    "nombre": "Bandeja de cartón rectangular Bosque Verde",
+    "precio": "1,50 €"
+  },
+  {
+    "nombre": "Vela perfumada Amber Bosque Verde",
+    "precio": "2,35 €"
+  },
+  {
+    "nombre": "Vela perfumada Chai Bosque Verde",
+    "precio": "5,00 €"
+  },
+  {
+    "nombre": "Vela perfumada Frutos Silvestres Bosque Verde",
+    "precio": "1,85 €"
+  },
+  {
+    "nombre": "Vela perfumada Vainilla Bosque Verde",
+    "precio": "1,85 €"
+  },
+  {
+    "nombre": "Vela perfumada Chai Bosque Verde",
+    "precio": "1,85 €"
+  },
+  {
+    "nombre": "Vela perfumada Toffee Bosque Verde",
+    "precio": "1,75 €"
+  },
+  {
+    "nombre": "Bollitos glaseados Hacendado",
+    "precio": "1,75 €"
+  },
+  {
+    "nombre": "Steak Tartar de vacuno marinado",
+    "precio": "2,00 €"
+  },
+  {
+    "nombre": "Patatas",
+    "precio": "4,95 €"
+  },
+  {
+    "nombre": "Salsa cocktail Hacendado",
+    "precio": "4,90 €"
+  },
+  {
+    "nombre": "Mousse de pato con pimienta verde Hacendado",
+    "precio": "1,30 €"
+  },
+  {
+    "nombre": "Mousse de pato con dulce de calabaza Hacendado",
+    "precio": "1,50 €"
+  },
+  {
+    "nombre": "Laca de uñas Special Deliplus 257 oro rosa",
+    "precio": "1,50 €"
+  },
+  {
+    "nombre": "Langostino crudo Hacendado ultracongelado",
+    "precio": "2,75 €"
+  },
+  {
+    "nombre": "Laca de uñas Special Deliplus 258 rose",
+    "precio": "5,95 €"
+  },
+  {
+    "nombre": "Cañaílla cocida",
+    "precio": "2,75 €"
+  },
+  {
+    "nombre": "Mascarilla facial navideña Christmas Mask Deliplus con extractos de arándanos y fresas",
+    "precio": "4,95 €"
+  },
+  {
+    "nombre": "Sombra de ojos Long Lasting Deliplus Multi-Stick 05 champagne",
+    "precio": "2,00 €"
+  },
+  {
+    "nombre": "Sombra de ojos Long Lasting Deliplus Multi-Stick 08 chocolate",
+    "precio": "3,90 €"
+  },
+  {
+    "nombre": "Eau de parfum mujer Como tú Cerise",
+    "precio": "3,90 €"
+  },
+  {
+    "nombre": "Eau de parfum hombre Como tú Eternal",
+    "precio": "12,00 €"
+  },
+  {
+    "nombre": "Eau de parfum mujer My Soul Rouge",
+    "precio": "8,00 €"
+  },
+  {
+    "nombre": "Eau de parfum hombre My Soul Vert",
+    "precio": "14,00 €"
+  },
+  {
+    "nombre": "Extrait de parfum Oud",
+    "precio": "14,00 €"
+  },
+  {
+    "nombre": "Extrait de parfum Tabac",
+    "precio": "12,00 €"
+  },
+  {
+    "nombre": "Neceser lentejuelas color mediano Uahuu con asa",
+    "precio": "12,00 €"
+  },
+  {
+    "nombre": "Queso viejo cremoso de oveja Hacendado",
+    "precio": "4,50 €"
+  },
+  {
+    "nombre": "Vino blanco crianza D.O Rioja Capricho de Uva",
+    "precio": "17,00 €"
+  },
+  {
+    "nombre": "Morcilla blanca con piñones",
+    "precio": "7,00 €"
+  },
+  {
+    "nombre": "Rellenito de vacuno con pasas y piñones",
+    "precio": "2,88 €"
+  },
+  {
+    "nombre": "Pollo relleno con paté, ciruelas y nueces con salsa de trufa",
+    "precio": "12,30 €"
+  },
+  {
+    "nombre": "Pavita marinada",
+    "precio": "13,80 €"
+  },
+  {
+    "nombre": "Pierna de pavo",
+    "precio": "23,13 €"
+  },
+  {
+    "nombre": "Paletilla de cordero lechal",
+    "precio": "4,95 €"
+  },
+  {
+    "nombre": "Pierna de cordero lechal",
+    "precio": "19,25 €"
+  },
+  {
+    "nombre": "Chuletas de cordero lechal",
+    "precio": "15,68 €"
+  }
+]
